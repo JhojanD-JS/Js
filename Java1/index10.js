@@ -1,0 +1,6 @@
+alert ("🐱‍👤Bienvenido🐱‍👤")
+alert ("ingrese su numero")
+let numero = parseInt(prompt("numero real"))
+let valorAbsoluto = Math.abs (numero)
+alert (`valor absoluto ${valorAbsoluto}`)
+alert ("refresca la pagina ")
